@@ -1,1 +1,1 @@
-# testspringcloudconfig
+springcloud-config
